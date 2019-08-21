@@ -5,7 +5,7 @@ const modalidade = f => f.resumo === 'Modalidade Segue Faixa'
 
 axios.get(url).then(resposta => {
     const servidores = resposta.data
-    const resultado = servidores.filter(areaConhecimento).filter(modalidade)
-    console.log(resultado);
+    module.exports.resultado = servidores.filter(areaConhecimento).filter(modalidade)
+        // console.log(resultado);
 
 })

@@ -1,0 +1,24 @@
+{
+  "name": "curso_web_senai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WescleyLemos/curso_web_senai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WescleyLemos/curso_web_senai/issues"
+  },
+  "homepage": "https://github.com/WescleyLemos/curso_web_senai#readme"
+}
