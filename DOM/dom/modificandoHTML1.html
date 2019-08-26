@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+    <title>Modificando HTML #01</title>
+    <link rel='stylesheet' href='css/estilo.css'>
+</head>
+
+<body class='conteudo exercicio'>
+    <script>
+        // ...criando e excluir elementos no html
+        const body = document.querySelector('body')//primeiro recuperar o body para trabalhar as estruturas nele
+        const div1 = document.createElement('div')
+
+        div1.classList.add('destaque')
+        div1.innerHTML = 'Primeiro'
+
+        const div2 = document.createElement('div')
+        div2.innerHTML = 'Segundo'
+        div2.setAttribute('novo-atributo', 'valor')
+     
+        const div3 = document.createElement('div')     
+
+        body.appendChild(div1)
+        body.appendChild(div2)
+        body.appendChild(div3)
+
+        const paragrafo = document.createElement('p')
+        paragrafo.innerHTML = 'Terceiro'
+        div3.appendChild(paragrafo)
+
+        const texto = document.createTextNode('antes...')
+        div3.insertBefore(texto, div3.childNodes[0])
+
+        const div4 = div3.cloneNode(true)
+        body.appendChild(div4)
+        body.removeChild(div1)
+        const divs = document.querySelectorAll('div')//lista de divs
+     
+       // divs[0].removeChild(divs[0].childNodes[0])
+        //div3.removeChild(div3.childNodes[0])
+
+
+    </script>
+</body>
+
+</html>

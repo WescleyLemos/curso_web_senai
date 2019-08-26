@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Selecionar Elementos #01</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body class="conteudo exercicio">
+    <div id="primeiro" onclick="exemplo1()">#primeiro</div>
+    <div>Segundo</div>
+    <div class="terceiro ultimo">.terceiro .ultimo</div>
+    <button id = 'bt_um' onclick="exemplo1(), start()">
+        Exemplo 1 - Fazer
+    </button>
+    
+    
+    <script>              
+        // ...
+       // document.getElementById('primeiro').innerHTML = 'teste'
+      const bt_um = document.getElementById('bt_um')
+       /*
+      function exemplo1(){
+        const pri = document.getElementById('primeiro')
+       // const verifica = confirm("Deseja realmente realizar essa ação?")
+        
+       
+          if( (bt_um.innerText == 'Exemplo 1 - Fazer' ) && verifica == true){
+            pri.classList.add('destaque')
+            bt_um.innerText = 'Exemplo 1 - Desfazer'
+
+          }else{
+            pri.classList.remove('destaque')
+            bt_um.innerText = 'Exemplo 1 - Fazer'
+          }
+
+
+          pri.classList.toggle('destaque')
+       
+      }  */  
+
+      const exemplo1 = () =>  document.getElementById('primeiro').classList.toggle('destaque')
+
+    const divs = document.getElementsByTagName('div')
+           
+    /*
+        for(let i = 0; i<= divs.length; i++ ){
+        divs[i].classList.remove('destaque')
+        } 
+     */
+
+         //transformando um htmlcollection em array: 
+         const div_array = Array.from(divs)
+     
+
+      
+    </script>
+
+</body>
+</html>

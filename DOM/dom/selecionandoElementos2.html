@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Selecionar Elementos #02</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body class="conteudo exercicio">
+    <div id="primeiro">#primeiro</div>
+    <div>Segundo</div>
+    <div class="terceiro ultimo">
+        <!-- Conveção -> se criar atributo deve ter a sintaxe "data-nome do atributo" -->
+        <span new-attrib>.terceiro .ultimo</span></div> 
+    <script>              
+        // ...querySelector
+        const selecionar = seletor => document.querySelectorAll(seletor).forEach(e => e.classList.add('destaque'));
+        const deselecionar = seletor => document.querySelectorAll(seletor).forEach(e => e.classList.remove('destaque'));
+        
+        // selecionar('[new-attrib]')
+        //selecionar(':not(#primeiro)') // seleciona todos elementos menos o que é especificado no parênteses
+        //selecionar('.terceiro.ultimo') // seleciona elemento que tem as duas classes
+        // selecionar('div')
+        // deselecionar('div')
+
+        //selecionar('*') //aplica para todos
+        //deselecionar('*') //aplica para todos
+
+        const lista = document.querySelectorAll('*')
+        for(let i = 0 ; i<= lista.length; i++){
+        lista[i].classList.add('destaque')
+        }
+
+    </script>
+</body>
+</html>

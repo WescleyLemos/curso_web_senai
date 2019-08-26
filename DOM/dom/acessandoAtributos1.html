@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+    <title>Acessando Atributos #01</title>
+    <link rel='stylesheet' href='css/estilo.css'>
+</head>
+
+<body class='conteudo exercicio'>
+    <div>
+        <a href='http://senai-to.com.br/lib/images/minilogo-senai.png'>SENAI</a>
+    </div>
+    <div id='primeiro'>
+        <img src='https://www.mundosenai.com.br/static/project/images/logo-header-negative.png' alt='logo'>
+    </div>
+    <script>
+        // ...
+        const img = document.querySelector('img')
+        
+        console.log(img)
+        const endereco  = img.getAttribute('src')
+        console.log('getAttribute', img.getAttribute('src'))
+        console.log('getAttribute', img.getAttribute('alt'))
+        console.log(endereco)
+
+        console.log(img.src)
+    </script>
+</body>
+
+</html>
