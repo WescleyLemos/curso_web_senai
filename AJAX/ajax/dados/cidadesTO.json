@@ -1,0 +1,2226 @@
+[
+    {
+        "id": 1,
+        "nome": "Abreulândia"
+    },
+    {
+        "id": 2,
+        "nome": "Aguiarnópolis"
+    },
+    {
+        "id": 3,
+        "nome": "Aliança do Tocantins"
+    },
+    {
+        "id": 4,
+        "nome": "Almas"
+    },
+    {
+        "id": 5,
+        "nome": "Alvorada"
+    },
+    {
+        "id": 6,
+        "nome": "Ananás"
+    },
+    {
+        "id": 7,
+        "nome": "Angico"
+    },
+    {
+        "id": 8,
+        "nome": "Aparecida do Rio Negro"
+    },
+    {
+        "id": 9,
+        "nome": "Aragominas"
+    },
+    {
+        "id": 10,
+        "nome": "Araguacema"
+    },
+    {
+        "id": 11,
+        "nome": "Araguaçu"
+    },
+    {
+        "id": 12,
+        "nome": "Araguaína"
+    },
+    {
+        "id": 13,
+        "nome": "Araguanã"
+    },
+    {
+        "id": 14,
+        "nome": "Araguatins"
+    },
+    {
+        "id": 15,
+        "nome": "Arapoema"
+    },
+    {
+        "id": 16,
+        "nome": "Arraias"
+    },
+    {
+        "id": 17,
+        "nome": "Augustinópolis"
+    },
+    {
+        "id": 18,
+        "nome": "Aurora do Tocantins"
+    },
+    {
+        "id": 19,
+        "nome": "Axixá do Tocantins"
+    },
+    {
+        "id": 20,
+        "nome": "Babaçulândia"
+    },
+    {
+        "id": 21,
+        "nome": "Bandeirantes do Tocantins"
+    },
+    {
+        "id": 22,
+        "nome": "Barra do Ouro"
+    },
+    {
+        "id": 23,
+        "nome": "Barrolândia"
+    },
+    {
+        "id": 24,
+        "nome": "Bernardo Sayão"
+    },
+    {
+        "id": 25,
+        "nome": "Bom Jesus do Tocantins"
+    },
+    {
+        "id": 26,
+        "nome": "Brasilândia do Tocantins"
+    },
+    {
+        "id": 27,
+        "nome": "Brejinho de Nazaré"
+    },
+    {
+        "id": 28,
+        "nome": "Buriti do Tocantins"
+    },
+    {
+        "id": 29,
+        "nome": "Cachoeirinha"
+    },
+    {
+        "id": 30,
+        "nome": "Campos Lindos"
+    },
+    {
+        "id": 31,
+        "nome": "Cariri do Tocantins"
+    },
+    {
+        "id": 32,
+        "nome": "Carmolândia"
+    },
+    {
+        "id": 33,
+        "nome": "Carrasco Bonito"
+    },
+    {
+        "id": 34,
+        "nome": "Caseara"
+    },
+    {
+        "id": 35,
+        "nome": "Centenário"
+    },
+    {
+        "id": 36,
+        "nome": "Chapada da Natividade"
+    },
+    {
+        "id": 37,
+        "nome": "Chapada de Areia"
+    },
+    {
+        "id": 38,
+        "nome": "Colinas do Tocantins"
+    },
+    {
+        "id": 39,
+        "nome": "Colméia"
+    },
+    {
+        "id": 40,
+        "nome": "Combinado"
+    },
+    {
+        "id": 41,
+        "nome": "Conceição do Tocantins"
+    },
+    {
+        "id": 42,
+        "nome": "Couto de Magalhães"
+    },
+    {
+        "id": 43,
+        "nome": "Cristalândia"
+    },
+    {
+        "id": 44,
+        "nome": "Crixás do Tocantins"
+    },
+    {
+        "id": 45,
+        "nome": "Darcinópolis"
+    },
+    {
+        "id": 46,
+        "nome": "Dianópolis"
+    },
+    {
+        "id": 47,
+        "nome": "Divinópolis do Tocantins"
+    },
+    {
+        "id": 48,
+        "nome": "Dois Irmãos do Tocantins"
+    },
+    {
+        "id": 49,
+        "nome": "Dueré"
+    },
+    {
+        "id": 50,
+        "nome": "Esperantina"
+    },
+    {
+        "id": 51,
+        "nome": "Fátima"
+    },
+    {
+        "id": 52,
+        "nome": "Figueirópolis"
+    },
+    {
+        "id": 53,
+        "nome": "Filadélfia"
+    },
+    {
+        "id": 54,
+        "nome": "Formoso do Araguaia"
+    },
+    {
+        "id": 55,
+        "nome": "Fortaleza do Tabocão"
+    },
+    {
+        "id": 56,
+        "nome": "Goianorte"
+    },
+    {
+        "id": 57,
+        "nome": "Goiatins"
+    },
+    {
+        "id": 58,
+        "nome": "Guaraí"
+    },
+    {
+        "id": 59,
+        "nome": "Gurupi"
+    },
+    {
+        "id": 60,
+        "nome": "Ipueiras"
+    },
+    {
+        "id": 61,
+        "nome": "Itacajá"
+    },
+    {
+        "id": 62,
+        "nome": "Itaguatins"
+    },
+    {
+        "id": 63,
+        "nome": "Itapiratins"
+    },
+    {
+        "id": 64,
+        "nome": "Itaporã do Tocantins"
+    },
+    {
+        "id": 65,
+        "nome": "Jaú do Tocantins"
+    },
+    {
+        "id": 66,
+        "nome": "Juarina"
+    },
+    {
+        "id": 67,
+        "nome": "Lagoa da Confusão"
+    },
+    {
+        "id": 68,
+        "nome": "Lagoa do Tocantins"
+    },
+    {
+        "id": 69,
+        "nome": "Lajeado"
+    },
+    {
+        "id": 70,
+        "nome": "Lavandeira"
+    },
+    {
+        "id": 71,
+        "nome": "Lizarda"
+    },
+    {
+        "id": 72,
+        "nome": "Luzinópolis"
+    },
+    {
+        "id": 73,
+        "nome": "Marianópolis do Tocantins"
+    },
+    {
+        "id": 74,
+        "nome": "Mateiros"
+    },
+    {
+        "id": 75,
+        "nome": "Maurilândia do Tocantins"
+    },
+    {
+        "id": 76,
+        "nome": "Miracema do Tocantins"
+    },
+    {
+        "id": 77,
+        "nome": "Miranorte"
+    },
+    {
+        "id": 78,
+        "nome": "Monte do Carmo"
+    },
+    {
+        "id": 79,
+        "nome": "Monte Santo do Tocantins"
+    },
+    {
+        "id": 80,
+        "nome": "Muricilândia"
+    },
+    {
+        "id": 81,
+        "nome": "Natividade"
+    },
+    {
+        "id": 82,
+        "nome": "Nazaré"
+    },
+    {
+        "id": 83,
+        "nome": "Nova Olinda"
+    },
+    {
+        "id": 84,
+        "nome": "Nova Rosalândia"
+    },
+    {
+        "id": 85,
+        "nome": "Novo Acordo"
+    },
+    {
+        "id": 86,
+        "nome": "Novo Alegre"
+    },
+    {
+        "id": 87,
+        "nome": "Novo Jardim"
+    },
+    {
+        "id": 88,
+        "nome": "Oliveira de Fátima"
+    },
+    {
+        "id": 89,
+        "nome": "Palmas"
+    },
+    {
+        "id": 90,
+        "nome": "Palmeirante"
+    },
+    {
+        "id": 91,
+        "nome": "Palmeiras do Tocantins"
+    },
+    {
+        "id": 92,
+        "nome": "Palmeirópolis"
+    },
+    {
+        "id": 93,
+        "nome": "Paraíso do Tocantins"
+    },
+    {
+        "id": 94,
+        "nome": "Paranã"
+    },
+    {
+        "id": 95,
+        "nome": "Pau d'Arco"
+    },
+    {
+        "id": 96,
+        "nome": "Pedro Afonso"
+    },
+    {
+        "id": 97,
+        "nome": "Peixe"
+    },
+    {
+        "id": 98,
+        "nome": "Pequizeiro"
+    },
+    {
+        "id": 99,
+        "nome": "Pindorama do Tocantins"
+    },
+    {
+        "id": 100,
+        "nome": "Piraquê"
+    },
+    {
+        "id": 101,
+        "nome": "Pium"
+    },
+    {
+        "id": 102,
+        "nome": "Ponte Alta do Bom Jesus"
+    },
+    {
+        "id": 103,
+        "nome": "Ponte Alta do Tocantins"
+    },
+    {
+        "id": 104,
+        "nome": "Porto Alegre do Tocantins"
+    },
+    {
+        "id": 105,
+        "nome": "Porto Nacional"
+    },
+    {
+        "id": 106,
+        "nome": "Praia Norte"
+    },
+    {
+        "id": 107,
+        "nome": "Presidente Kennedy"
+    },
+    {
+        "id": 108,
+        "nome": "Pugmil"
+    },
+    {
+        "id": 109,
+        "nome": "Recursolândia"
+    },
+    {
+        "id": 110,
+        "nome": "Riachinho"
+    },
+    {
+        "id": 111,
+        "nome": "Rio da Conceição"
+    },
+    {
+        "id": 112,
+        "nome": "Rio dos Bois"
+    },
+    {
+        "id": 113,
+        "nome": "Rio Sono"
+    },
+    {
+        "id": 114,
+        "nome": "Sampaio"
+    },
+    {
+        "id": 115,
+        "nome": "Sandolândia"
+    },
+    {
+        "id": 116,
+        "nome": "Santa Fé do Araguaia"
+    },
+    {
+        "id": 117,
+        "nome": "Santa Maria do Tocantins"
+    },
+    {
+        "id": 118,
+        "nome": "Santa Rita do Tocantins"
+    },
+    {
+        "id": 119,
+        "nome": "Santa Rosa do Tocantins"
+    },
+    {
+        "id": 120,
+        "nome": "Santa Tereza do Tocantins"
+    },
+    {
+        "id": 121,
+        "nome": "Santa Terezinha Tocantins"
+    },
+    {
+        "id": 122,
+        "nome": "São Bento do Tocantins"
+    },
+    {
+        "id": 123,
+        "nome": "São Félix do Tocantins"
+    },
+    {
+        "id": 124,
+        "nome": "São Miguel do Tocantins"
+    },
+    {
+        "id": 125,
+        "nome": "São Salvador do Tocantins"
+    },
+    {
+        "id": 126,
+        "nome": "São Sebastião do Tocantins"
+    },
+    {
+        "id": 127,
+        "nome": "São Valério da Natividade"
+    },
+    {
+        "id": 128,
+        "nome": "Silvanópolis"
+    },
+    {
+        "id": 129,
+        "nome": "Sítio Novo do Tocantins"
+    },
+    {
+        "id": 130,
+        "nome": "Sucupira"
+    },
+    {
+        "id": 131,
+        "nome": "Taguatinga"
+    },
+    {
+        "id": 132,
+        "nome": "Taipas do Tocantins"
+    },
+    {
+        "id": 133,
+        "nome": "Talismã"
+    },
+    {
+        "id": 134,
+        "nome": "Tocantínia"
+    },
+    {
+        "id": 135,
+        "nome": "Tocantinópolis"
+    },
+    {
+        "id": 136,
+        "nome": "Tupirama"
+    },
+    {
+        "id": 137,
+        "nome": "Tupiratins"
+    },
+    {
+        "id": 138,
+        "nome": "Wanderlândia"
+    },
+    {
+        "id": 139,
+        "nome": "Xambioá"
+    },
+    {
+        "id": 1,
+        "nome": "Abreulândia"
+    },
+    {
+        "id": 2,
+        "nome": "Aguiarnópolis"
+    },
+    {
+        "id": 3,
+        "nome": "Aliança do Tocantins"
+    },
+    {
+        "id": 4,
+        "nome": "Almas"
+    },
+    {
+        "id": 5,
+        "nome": "Alvorada"
+    },
+    {
+        "id": 6,
+        "nome": "Ananás"
+    },
+    {
+        "id": 7,
+        "nome": "Angico"
+    },
+    {
+        "id": 8,
+        "nome": "Aparecida do Rio Negro"
+    },
+    {
+        "id": 9,
+        "nome": "Aragominas"
+    },
+    {
+        "id": 10,
+        "nome": "Araguacema"
+    },
+    {
+        "id": 11,
+        "nome": "Araguaçu"
+    },
+    {
+        "id": 12,
+        "nome": "Araguaína"
+    },
+    {
+        "id": 13,
+        "nome": "Araguanã"
+    },
+    {
+        "id": 14,
+        "nome": "Araguatins"
+    },
+    {
+        "id": 15,
+        "nome": "Arapoema"
+    },
+    {
+        "id": 16,
+        "nome": "Arraias"
+    },
+    {
+        "id": 17,
+        "nome": "Augustinópolis"
+    },
+    {
+        "id": 18,
+        "nome": "Aurora do Tocantins"
+    },
+    {
+        "id": 19,
+        "nome": "Axixá do Tocantins"
+    },
+    {
+        "id": 20,
+        "nome": "Babaçulândia"
+    },
+    {
+        "id": 21,
+        "nome": "Bandeirantes do Tocantins"
+    },
+    {
+        "id": 22,
+        "nome": "Barra do Ouro"
+    },
+    {
+        "id": 23,
+        "nome": "Barrolândia"
+    },
+    {
+        "id": 24,
+        "nome": "Bernardo Sayão"
+    },
+    {
+        "id": 25,
+        "nome": "Bom Jesus do Tocantins"
+    },
+    {
+        "id": 26,
+        "nome": "Brasilândia do Tocantins"
+    },
+    {
+        "id": 27,
+        "nome": "Brejinho de Nazaré"
+    },
+    {
+        "id": 28,
+        "nome": "Buriti do Tocantins"
+    },
+    {
+        "id": 29,
+        "nome": "Cachoeirinha"
+    },
+    {
+        "id": 30,
+        "nome": "Campos Lindos"
+    },
+    {
+        "id": 31,
+        "nome": "Cariri do Tocantins"
+    },
+    {
+        "id": 32,
+        "nome": "Carmolândia"
+    },
+    {
+        "id": 33,
+        "nome": "Carrasco Bonito"
+    },
+    {
+        "id": 34,
+        "nome": "Caseara"
+    },
+    {
+        "id": 35,
+        "nome": "Centenário"
+    },
+    {
+        "id": 36,
+        "nome": "Chapada da Natividade"
+    },
+    {
+        "id": 37,
+        "nome": "Chapada de Areia"
+    },
+    {
+        "id": 38,
+        "nome": "Colinas do Tocantins"
+    },
+    {
+        "id": 39,
+        "nome": "Colméia"
+    },
+    {
+        "id": 40,
+        "nome": "Combinado"
+    },
+    {
+        "id": 41,
+        "nome": "Conceição do Tocantins"
+    },
+    {
+        "id": 42,
+        "nome": "Couto de Magalhães"
+    },
+    {
+        "id": 43,
+        "nome": "Cristalândia"
+    },
+    {
+        "id": 44,
+        "nome": "Crixás do Tocantins"
+    },
+    {
+        "id": 45,
+        "nome": "Darcinópolis"
+    },
+    {
+        "id": 46,
+        "nome": "Dianópolis"
+    },
+    {
+        "id": 47,
+        "nome": "Divinópolis do Tocantins"
+    },
+    {
+        "id": 48,
+        "nome": "Dois Irmãos do Tocantins"
+    },
+    {
+        "id": 49,
+        "nome": "Dueré"
+    },
+    {
+        "id": 50,
+        "nome": "Esperantina"
+    },
+    {
+        "id": 51,
+        "nome": "Fátima"
+    },
+    {
+        "id": 52,
+        "nome": "Figueirópolis"
+    },
+    {
+        "id": 53,
+        "nome": "Filadélfia"
+    },
+    {
+        "id": 54,
+        "nome": "Formoso do Araguaia"
+    },
+    {
+        "id": 55,
+        "nome": "Fortaleza do Tabocão"
+    },
+    {
+        "id": 56,
+        "nome": "Goianorte"
+    },
+    {
+        "id": 57,
+        "nome": "Goiatins"
+    },
+    {
+        "id": 58,
+        "nome": "Guaraí"
+    },
+    {
+        "id": 59,
+        "nome": "Gurupi"
+    },
+    {
+        "id": 60,
+        "nome": "Ipueiras"
+    },
+    {
+        "id": 61,
+        "nome": "Itacajá"
+    },
+    {
+        "id": 62,
+        "nome": "Itaguatins"
+    },
+    {
+        "id": 63,
+        "nome": "Itapiratins"
+    },
+    {
+        "id": 64,
+        "nome": "Itaporã do Tocantins"
+    },
+    {
+        "id": 65,
+        "nome": "Jaú do Tocantins"
+    },
+    {
+        "id": 66,
+        "nome": "Juarina"
+    },
+    {
+        "id": 67,
+        "nome": "Lagoa da Confusão"
+    },
+    {
+        "id": 68,
+        "nome": "Lagoa do Tocantins"
+    },
+    {
+        "id": 69,
+        "nome": "Lajeado"
+    },
+    {
+        "id": 70,
+        "nome": "Lavandeira"
+    },
+    {
+        "id": 71,
+        "nome": "Lizarda"
+    },
+    {
+        "id": 72,
+        "nome": "Luzinópolis"
+    },
+    {
+        "id": 73,
+        "nome": "Marianópolis do Tocantins"
+    },
+    {
+        "id": 74,
+        "nome": "Mateiros"
+    },
+    {
+        "id": 75,
+        "nome": "Maurilândia do Tocantins"
+    },
+    {
+        "id": 76,
+        "nome": "Miracema do Tocantins"
+    },
+    {
+        "id": 77,
+        "nome": "Miranorte"
+    },
+    {
+        "id": 78,
+        "nome": "Monte do Carmo"
+    },
+    {
+        "id": 79,
+        "nome": "Monte Santo do Tocantins"
+    },
+    {
+        "id": 80,
+        "nome": "Muricilândia"
+    },
+    {
+        "id": 81,
+        "nome": "Natividade"
+    },
+    {
+        "id": 82,
+        "nome": "Nazaré"
+    },
+    {
+        "id": 83,
+        "nome": "Nova Olinda"
+    },
+    {
+        "id": 84,
+        "nome": "Nova Rosalândia"
+    },
+    {
+        "id": 85,
+        "nome": "Novo Acordo"
+    },
+    {
+        "id": 86,
+        "nome": "Novo Alegre"
+    },
+    {
+        "id": 87,
+        "nome": "Novo Jardim"
+    },
+    {
+        "id": 88,
+        "nome": "Oliveira de Fátima"
+    },
+    {
+        "id": 89,
+        "nome": "Palmas"
+    },
+    {
+        "id": 90,
+        "nome": "Palmeirante"
+    },
+    {
+        "id": 91,
+        "nome": "Palmeiras do Tocantins"
+    },
+    {
+        "id": 92,
+        "nome": "Palmeirópolis"
+    },
+    {
+        "id": 93,
+        "nome": "Paraíso do Tocantins"
+    },
+    {
+        "id": 94,
+        "nome": "Paranã"
+    },
+    {
+        "id": 95,
+        "nome": "Pau d'Arco"
+    },
+    {
+        "id": 96,
+        "nome": "Pedro Afonso"
+    },
+    {
+        "id": 97,
+        "nome": "Peixe"
+    },
+    {
+        "id": 98,
+        "nome": "Pequizeiro"
+    },
+    {
+        "id": 99,
+        "nome": "Pindorama do Tocantins"
+    },
+    {
+        "id": 100,
+        "nome": "Piraquê"
+    },
+    {
+        "id": 101,
+        "nome": "Pium"
+    },
+    {
+        "id": 102,
+        "nome": "Ponte Alta do Bom Jesus"
+    },
+    {
+        "id": 103,
+        "nome": "Ponte Alta do Tocantins"
+    },
+    {
+        "id": 104,
+        "nome": "Porto Alegre do Tocantins"
+    },
+    {
+        "id": 105,
+        "nome": "Porto Nacional"
+    },
+    {
+        "id": 106,
+        "nome": "Praia Norte"
+    },
+    {
+        "id": 107,
+        "nome": "Presidente Kennedy"
+    },
+    {
+        "id": 108,
+        "nome": "Pugmil"
+    },
+    {
+        "id": 109,
+        "nome": "Recursolândia"
+    },
+    {
+        "id": 110,
+        "nome": "Riachinho"
+    },
+    {
+        "id": 111,
+        "nome": "Rio da Conceição"
+    },
+    {
+        "id": 112,
+        "nome": "Rio dos Bois"
+    },
+    {
+        "id": 113,
+        "nome": "Rio Sono"
+    },
+    {
+        "id": 114,
+        "nome": "Sampaio"
+    },
+    {
+        "id": 115,
+        "nome": "Sandolândia"
+    },
+    {
+        "id": 116,
+        "nome": "Santa Fé do Araguaia"
+    },
+    {
+        "id": 117,
+        "nome": "Santa Maria do Tocantins"
+    },
+    {
+        "id": 118,
+        "nome": "Santa Rita do Tocantins"
+    },
+    {
+        "id": 119,
+        "nome": "Santa Rosa do Tocantins"
+    },
+    {
+        "id": 120,
+        "nome": "Santa Tereza do Tocantins"
+    },
+    {
+        "id": 121,
+        "nome": "Santa Terezinha Tocantins"
+    },
+    {
+        "id": 122,
+        "nome": "São Bento do Tocantins"
+    },
+    {
+        "id": 123,
+        "nome": "São Félix do Tocantins"
+    },
+    {
+        "id": 124,
+        "nome": "São Miguel do Tocantins"
+    },
+    {
+        "id": 125,
+        "nome": "São Salvador do Tocantins"
+    },
+    {
+        "id": 126,
+        "nome": "São Sebastião do Tocantins"
+    },
+    {
+        "id": 127,
+        "nome": "São Valério da Natividade"
+    },
+    {
+        "id": 128,
+        "nome": "Silvanópolis"
+    },
+    {
+        "id": 129,
+        "nome": "Sítio Novo do Tocantins"
+    },
+    {
+        "id": 130,
+        "nome": "Sucupira"
+    },
+    {
+        "id": 131,
+        "nome": "Taguatinga"
+    },
+    {
+        "id": 132,
+        "nome": "Taipas do Tocantins"
+    },
+    {
+        "id": 133,
+        "nome": "Talismã"
+    },
+    {
+        "id": 134,
+        "nome": "Tocantínia"
+    },
+    {
+        "id": 135,
+        "nome": "Tocantinópolis"
+    },
+    {
+        "id": 136,
+        "nome": "Tupirama"
+    },
+    {
+        "id": 137,
+        "nome": "Tupiratins"
+    },
+    {
+        "id": 138,
+        "nome": "Wanderlândia"
+    },
+    {
+        "id": 139,
+        "nome": "Xambioá"
+    },
+    {
+        "id": 1,
+        "nome": "Abreulândia"
+    },
+    {
+        "id": 2,
+        "nome": "Aguiarnópolis"
+    },
+    {
+        "id": 3,
+        "nome": "Aliança do Tocantins"
+    },
+    {
+        "id": 4,
+        "nome": "Almas"
+    },
+    {
+        "id": 5,
+        "nome": "Alvorada"
+    },
+    {
+        "id": 6,
+        "nome": "Ananás"
+    },
+    {
+        "id": 7,
+        "nome": "Angico"
+    },
+    {
+        "id": 8,
+        "nome": "Aparecida do Rio Negro"
+    },
+    {
+        "id": 9,
+        "nome": "Aragominas"
+    },
+    {
+        "id": 10,
+        "nome": "Araguacema"
+    },
+    {
+        "id": 11,
+        "nome": "Araguaçu"
+    },
+    {
+        "id": 12,
+        "nome": "Araguaína"
+    },
+    {
+        "id": 13,
+        "nome": "Araguanã"
+    },
+    {
+        "id": 14,
+        "nome": "Araguatins"
+    },
+    {
+        "id": 15,
+        "nome": "Arapoema"
+    },
+    {
+        "id": 16,
+        "nome": "Arraias"
+    },
+    {
+        "id": 17,
+        "nome": "Augustinópolis"
+    },
+    {
+        "id": 18,
+        "nome": "Aurora do Tocantins"
+    },
+    {
+        "id": 19,
+        "nome": "Axixá do Tocantins"
+    },
+    {
+        "id": 20,
+        "nome": "Babaçulândia"
+    },
+    {
+        "id": 21,
+        "nome": "Bandeirantes do Tocantins"
+    },
+    {
+        "id": 22,
+        "nome": "Barra do Ouro"
+    },
+    {
+        "id": 23,
+        "nome": "Barrolândia"
+    },
+    {
+        "id": 24,
+        "nome": "Bernardo Sayão"
+    },
+    {
+        "id": 25,
+        "nome": "Bom Jesus do Tocantins"
+    },
+    {
+        "id": 26,
+        "nome": "Brasilândia do Tocantins"
+    },
+    {
+        "id": 27,
+        "nome": "Brejinho de Nazaré"
+    },
+    {
+        "id": 28,
+        "nome": "Buriti do Tocantins"
+    },
+    {
+        "id": 29,
+        "nome": "Cachoeirinha"
+    },
+    {
+        "id": 30,
+        "nome": "Campos Lindos"
+    },
+    {
+        "id": 31,
+        "nome": "Cariri do Tocantins"
+    },
+    {
+        "id": 32,
+        "nome": "Carmolândia"
+    },
+    {
+        "id": 33,
+        "nome": "Carrasco Bonito"
+    },
+    {
+        "id": 34,
+        "nome": "Caseara"
+    },
+    {
+        "id": 35,
+        "nome": "Centenário"
+    },
+    {
+        "id": 36,
+        "nome": "Chapada da Natividade"
+    },
+    {
+        "id": 37,
+        "nome": "Chapada de Areia"
+    },
+    {
+        "id": 38,
+        "nome": "Colinas do Tocantins"
+    },
+    {
+        "id": 39,
+        "nome": "Colméia"
+    },
+    {
+        "id": 40,
+        "nome": "Combinado"
+    },
+    {
+        "id": 41,
+        "nome": "Conceição do Tocantins"
+    },
+    {
+        "id": 42,
+        "nome": "Couto de Magalhães"
+    },
+    {
+        "id": 43,
+        "nome": "Cristalândia"
+    },
+    {
+        "id": 44,
+        "nome": "Crixás do Tocantins"
+    },
+    {
+        "id": 45,
+        "nome": "Darcinópolis"
+    },
+    {
+        "id": 46,
+        "nome": "Dianópolis"
+    },
+    {
+        "id": 47,
+        "nome": "Divinópolis do Tocantins"
+    },
+    {
+        "id": 48,
+        "nome": "Dois Irmãos do Tocantins"
+    },
+    {
+        "id": 49,
+        "nome": "Dueré"
+    },
+    {
+        "id": 50,
+        "nome": "Esperantina"
+    },
+    {
+        "id": 51,
+        "nome": "Fátima"
+    },
+    {
+        "id": 52,
+        "nome": "Figueirópolis"
+    },
+    {
+        "id": 53,
+        "nome": "Filadélfia"
+    },
+    {
+        "id": 54,
+        "nome": "Formoso do Araguaia"
+    },
+    {
+        "id": 55,
+        "nome": "Fortaleza do Tabocão"
+    },
+    {
+        "id": 56,
+        "nome": "Goianorte"
+    },
+    {
+        "id": 57,
+        "nome": "Goiatins"
+    },
+    {
+        "id": 58,
+        "nome": "Guaraí"
+    },
+    {
+        "id": 59,
+        "nome": "Gurupi"
+    },
+    {
+        "id": 60,
+        "nome": "Ipueiras"
+    },
+    {
+        "id": 61,
+        "nome": "Itacajá"
+    },
+    {
+        "id": 62,
+        "nome": "Itaguatins"
+    },
+    {
+        "id": 63,
+        "nome": "Itapiratins"
+    },
+    {
+        "id": 64,
+        "nome": "Itaporã do Tocantins"
+    },
+    {
+        "id": 65,
+        "nome": "Jaú do Tocantins"
+    },
+    {
+        "id": 66,
+        "nome": "Juarina"
+    },
+    {
+        "id": 67,
+        "nome": "Lagoa da Confusão"
+    },
+    {
+        "id": 68,
+        "nome": "Lagoa do Tocantins"
+    },
+    {
+        "id": 69,
+        "nome": "Lajeado"
+    },
+    {
+        "id": 70,
+        "nome": "Lavandeira"
+    },
+    {
+        "id": 71,
+        "nome": "Lizarda"
+    },
+    {
+        "id": 72,
+        "nome": "Luzinópolis"
+    },
+    {
+        "id": 73,
+        "nome": "Marianópolis do Tocantins"
+    },
+    {
+        "id": 74,
+        "nome": "Mateiros"
+    },
+    {
+        "id": 75,
+        "nome": "Maurilândia do Tocantins"
+    },
+    {
+        "id": 76,
+        "nome": "Miracema do Tocantins"
+    },
+    {
+        "id": 77,
+        "nome": "Miranorte"
+    },
+    {
+        "id": 78,
+        "nome": "Monte do Carmo"
+    },
+    {
+        "id": 79,
+        "nome": "Monte Santo do Tocantins"
+    },
+    {
+        "id": 80,
+        "nome": "Muricilândia"
+    },
+    {
+        "id": 81,
+        "nome": "Natividade"
+    },
+    {
+        "id": 82,
+        "nome": "Nazaré"
+    },
+    {
+        "id": 83,
+        "nome": "Nova Olinda"
+    },
+    {
+        "id": 84,
+        "nome": "Nova Rosalândia"
+    },
+    {
+        "id": 85,
+        "nome": "Novo Acordo"
+    },
+    {
+        "id": 86,
+        "nome": "Novo Alegre"
+    },
+    {
+        "id": 87,
+        "nome": "Novo Jardim"
+    },
+    {
+        "id": 88,
+        "nome": "Oliveira de Fátima"
+    },
+    {
+        "id": 89,
+        "nome": "Palmas"
+    },
+    {
+        "id": 90,
+        "nome": "Palmeirante"
+    },
+    {
+        "id": 91,
+        "nome": "Palmeiras do Tocantins"
+    },
+    {
+        "id": 92,
+        "nome": "Palmeirópolis"
+    },
+    {
+        "id": 93,
+        "nome": "Paraíso do Tocantins"
+    },
+    {
+        "id": 94,
+        "nome": "Paranã"
+    },
+    {
+        "id": 95,
+        "nome": "Pau d'Arco"
+    },
+    {
+        "id": 96,
+        "nome": "Pedro Afonso"
+    },
+    {
+        "id": 97,
+        "nome": "Peixe"
+    },
+    {
+        "id": 98,
+        "nome": "Pequizeiro"
+    },
+    {
+        "id": 99,
+        "nome": "Pindorama do Tocantins"
+    },
+    {
+        "id": 100,
+        "nome": "Piraquê"
+    },
+    {
+        "id": 101,
+        "nome": "Pium"
+    },
+    {
+        "id": 102,
+        "nome": "Ponte Alta do Bom Jesus"
+    },
+    {
+        "id": 103,
+        "nome": "Ponte Alta do Tocantins"
+    },
+    {
+        "id": 104,
+        "nome": "Porto Alegre do Tocantins"
+    },
+    {
+        "id": 105,
+        "nome": "Porto Nacional"
+    },
+    {
+        "id": 106,
+        "nome": "Praia Norte"
+    },
+    {
+        "id": 107,
+        "nome": "Presidente Kennedy"
+    },
+    {
+        "id": 108,
+        "nome": "Pugmil"
+    },
+    {
+        "id": 109,
+        "nome": "Recursolândia"
+    },
+    {
+        "id": 110,
+        "nome": "Riachinho"
+    },
+    {
+        "id": 111,
+        "nome": "Rio da Conceição"
+    },
+    {
+        "id": 112,
+        "nome": "Rio dos Bois"
+    },
+    {
+        "id": 113,
+        "nome": "Rio Sono"
+    },
+    {
+        "id": 114,
+        "nome": "Sampaio"
+    },
+    {
+        "id": 115,
+        "nome": "Sandolândia"
+    },
+    {
+        "id": 116,
+        "nome": "Santa Fé do Araguaia"
+    },
+    {
+        "id": 117,
+        "nome": "Santa Maria do Tocantins"
+    },
+    {
+        "id": 118,
+        "nome": "Santa Rita do Tocantins"
+    },
+    {
+        "id": 119,
+        "nome": "Santa Rosa do Tocantins"
+    },
+    {
+        "id": 120,
+        "nome": "Santa Tereza do Tocantins"
+    },
+    {
+        "id": 121,
+        "nome": "Santa Terezinha Tocantins"
+    },
+    {
+        "id": 122,
+        "nome": "São Bento do Tocantins"
+    },
+    {
+        "id": 123,
+        "nome": "São Félix do Tocantins"
+    },
+    {
+        "id": 124,
+        "nome": "São Miguel do Tocantins"
+    },
+    {
+        "id": 125,
+        "nome": "São Salvador do Tocantins"
+    },
+    {
+        "id": 126,
+        "nome": "São Sebastião do Tocantins"
+    },
+    {
+        "id": 127,
+        "nome": "São Valério da Natividade"
+    },
+    {
+        "id": 128,
+        "nome": "Silvanópolis"
+    },
+    {
+        "id": 129,
+        "nome": "Sítio Novo do Tocantins"
+    },
+    {
+        "id": 130,
+        "nome": "Sucupira"
+    },
+    {
+        "id": 131,
+        "nome": "Taguatinga"
+    },
+    {
+        "id": 132,
+        "nome": "Taipas do Tocantins"
+    },
+    {
+        "id": 133,
+        "nome": "Talismã"
+    },
+    {
+        "id": 134,
+        "nome": "Tocantínia"
+    },
+    {
+        "id": 135,
+        "nome": "Tocantinópolis"
+    },
+    {
+        "id": 136,
+        "nome": "Tupirama"
+    },
+    {
+        "id": 137,
+        "nome": "Tupiratins"
+    },
+    {
+        "id": 138,
+        "nome": "Wanderlândia"
+    },
+    {
+        "id": 139,
+        "nome": "Xambioá"
+    },
+    {
+        "id": 1,
+        "nome": "Abreulândia"
+    },
+    {
+        "id": 2,
+        "nome": "Aguiarnópolis"
+    },
+    {
+        "id": 3,
+        "nome": "Aliança do Tocantins"
+    },
+    {
+        "id": 4,
+        "nome": "Almas"
+    },
+    {
+        "id": 5,
+        "nome": "Alvorada"
+    },
+    {
+        "id": 6,
+        "nome": "Ananás"
+    },
+    {
+        "id": 7,
+        "nome": "Angico"
+    },
+    {
+        "id": 8,
+        "nome": "Aparecida do Rio Negro"
+    },
+    {
+        "id": 9,
+        "nome": "Aragominas"
+    },
+    {
+        "id": 10,
+        "nome": "Araguacema"
+    },
+    {
+        "id": 11,
+        "nome": "Araguaçu"
+    },
+    {
+        "id": 12,
+        "nome": "Araguaína"
+    },
+    {
+        "id": 13,
+        "nome": "Araguanã"
+    },
+    {
+        "id": 14,
+        "nome": "Araguatins"
+    },
+    {
+        "id": 15,
+        "nome": "Arapoema"
+    },
+    {
+        "id": 16,
+        "nome": "Arraias"
+    },
+    {
+        "id": 17,
+        "nome": "Augustinópolis"
+    },
+    {
+        "id": 18,
+        "nome": "Aurora do Tocantins"
+    },
+    {
+        "id": 19,
+        "nome": "Axixá do Tocantins"
+    },
+    {
+        "id": 20,
+        "nome": "Babaçulândia"
+    },
+    {
+        "id": 21,
+        "nome": "Bandeirantes do Tocantins"
+    },
+    {
+        "id": 22,
+        "nome": "Barra do Ouro"
+    },
+    {
+        "id": 23,
+        "nome": "Barrolândia"
+    },
+    {
+        "id": 24,
+        "nome": "Bernardo Sayão"
+    },
+    {
+        "id": 25,
+        "nome": "Bom Jesus do Tocantins"
+    },
+    {
+        "id": 26,
+        "nome": "Brasilândia do Tocantins"
+    },
+    {
+        "id": 27,
+        "nome": "Brejinho de Nazaré"
+    },
+    {
+        "id": 28,
+        "nome": "Buriti do Tocantins"
+    },
+    {
+        "id": 29,
+        "nome": "Cachoeirinha"
+    },
+    {
+        "id": 30,
+        "nome": "Campos Lindos"
+    },
+    {
+        "id": 31,
+        "nome": "Cariri do Tocantins"
+    },
+    {
+        "id": 32,
+        "nome": "Carmolândia"
+    },
+    {
+        "id": 33,
+        "nome": "Carrasco Bonito"
+    },
+    {
+        "id": 34,
+        "nome": "Caseara"
+    },
+    {
+        "id": 35,
+        "nome": "Centenário"
+    },
+    {
+        "id": 36,
+        "nome": "Chapada da Natividade"
+    },
+    {
+        "id": 37,
+        "nome": "Chapada de Areia"
+    },
+    {
+        "id": 38,
+        "nome": "Colinas do Tocantins"
+    },
+    {
+        "id": 39,
+        "nome": "Colméia"
+    },
+    {
+        "id": 40,
+        "nome": "Combinado"
+    },
+    {
+        "id": 41,
+        "nome": "Conceição do Tocantins"
+    },
+    {
+        "id": 42,
+        "nome": "Couto de Magalhães"
+    },
+    {
+        "id": 43,
+        "nome": "Cristalândia"
+    },
+    {
+        "id": 44,
+        "nome": "Crixás do Tocantins"
+    },
+    {
+        "id": 45,
+        "nome": "Darcinópolis"
+    },
+    {
+        "id": 46,
+        "nome": "Dianópolis"
+    },
+    {
+        "id": 47,
+        "nome": "Divinópolis do Tocantins"
+    },
+    {
+        "id": 48,
+        "nome": "Dois Irmãos do Tocantins"
+    },
+    {
+        "id": 49,
+        "nome": "Dueré"
+    },
+    {
+        "id": 50,
+        "nome": "Esperantina"
+    },
+    {
+        "id": 51,
+        "nome": "Fátima"
+    },
+    {
+        "id": 52,
+        "nome": "Figueirópolis"
+    },
+    {
+        "id": 53,
+        "nome": "Filadélfia"
+    },
+    {
+        "id": 54,
+        "nome": "Formoso do Araguaia"
+    },
+    {
+        "id": 55,
+        "nome": "Fortaleza do Tabocão"
+    },
+    {
+        "id": 56,
+        "nome": "Goianorte"
+    },
+    {
+        "id": 57,
+        "nome": "Goiatins"
+    },
+    {
+        "id": 58,
+        "nome": "Guaraí"
+    },
+    {
+        "id": 59,
+        "nome": "Gurupi"
+    },
+    {
+        "id": 60,
+        "nome": "Ipueiras"
+    },
+    {
+        "id": 61,
+        "nome": "Itacajá"
+    },
+    {
+        "id": 62,
+        "nome": "Itaguatins"
+    },
+    {
+        "id": 63,
+        "nome": "Itapiratins"
+    },
+    {
+        "id": 64,
+        "nome": "Itaporã do Tocantins"
+    },
+    {
+        "id": 65,
+        "nome": "Jaú do Tocantins"
+    },
+    {
+        "id": 66,
+        "nome": "Juarina"
+    },
+    {
+        "id": 67,
+        "nome": "Lagoa da Confusão"
+    },
+    {
+        "id": 68,
+        "nome": "Lagoa do Tocantins"
+    },
+    {
+        "id": 69,
+        "nome": "Lajeado"
+    },
+    {
+        "id": 70,
+        "nome": "Lavandeira"
+    },
+    {
+        "id": 71,
+        "nome": "Lizarda"
+    },
+    {
+        "id": 72,
+        "nome": "Luzinópolis"
+    },
+    {
+        "id": 73,
+        "nome": "Marianópolis do Tocantins"
+    },
+    {
+        "id": 74,
+        "nome": "Mateiros"
+    },
+    {
+        "id": 75,
+        "nome": "Maurilândia do Tocantins"
+    },
+    {
+        "id": 76,
+        "nome": "Miracema do Tocantins"
+    },
+    {
+        "id": 77,
+        "nome": "Miranorte"
+    },
+    {
+        "id": 78,
+        "nome": "Monte do Carmo"
+    },
+    {
+        "id": 79,
+        "nome": "Monte Santo do Tocantins"
+    },
+    {
+        "id": 80,
+        "nome": "Muricilândia"
+    },
+    {
+        "id": 81,
+        "nome": "Natividade"
+    },
+    {
+        "id": 82,
+        "nome": "Nazaré"
+    },
+    {
+        "id": 83,
+        "nome": "Nova Olinda"
+    },
+    {
+        "id": 84,
+        "nome": "Nova Rosalândia"
+    },
+    {
+        "id": 85,
+        "nome": "Novo Acordo"
+    },
+    {
+        "id": 86,
+        "nome": "Novo Alegre"
+    },
+    {
+        "id": 87,
+        "nome": "Novo Jardim"
+    },
+    {
+        "id": 88,
+        "nome": "Oliveira de Fátima"
+    },
+    {
+        "id": 89,
+        "nome": "Palmas"
+    },
+    {
+        "id": 90,
+        "nome": "Palmeirante"
+    },
+    {
+        "id": 91,
+        "nome": "Palmeiras do Tocantins"
+    },
+    {
+        "id": 92,
+        "nome": "Palmeirópolis"
+    },
+    {
+        "id": 93,
+        "nome": "Paraíso do Tocantins"
+    },
+    {
+        "id": 94,
+        "nome": "Paranã"
+    },
+    {
+        "id": 95,
+        "nome": "Pau d'Arco"
+    },
+    {
+        "id": 96,
+        "nome": "Pedro Afonso"
+    },
+    {
+        "id": 97,
+        "nome": "Peixe"
+    },
+    {
+        "id": 98,
+        "nome": "Pequizeiro"
+    },
+    {
+        "id": 99,
+        "nome": "Pindorama do Tocantins"
+    },
+    {
+        "id": 100,
+        "nome": "Piraquê"
+    },
+    {
+        "id": 101,
+        "nome": "Pium"
+    },
+    {
+        "id": 102,
+        "nome": "Ponte Alta do Bom Jesus"
+    },
+    {
+        "id": 103,
+        "nome": "Ponte Alta do Tocantins"
+    },
+    {
+        "id": 104,
+        "nome": "Porto Alegre do Tocantins"
+    },
+    {
+        "id": 105,
+        "nome": "Porto Nacional"
+    },
+    {
+        "id": 106,
+        "nome": "Praia Norte"
+    },
+    {
+        "id": 107,
+        "nome": "Presidente Kennedy"
+    },
+    {
+        "id": 108,
+        "nome": "Pugmil"
+    },
+    {
+        "id": 109,
+        "nome": "Recursolândia"
+    },
+    {
+        "id": 110,
+        "nome": "Riachinho"
+    },
+    {
+        "id": 111,
+        "nome": "Rio da Conceição"
+    },
+    {
+        "id": 112,
+        "nome": "Rio dos Bois"
+    },
+    {
+        "id": 113,
+        "nome": "Rio Sono"
+    },
+    {
+        "id": 114,
+        "nome": "Sampaio"
+    },
+    {
+        "id": 115,
+        "nome": "Sandolândia"
+    },
+    {
+        "id": 116,
+        "nome": "Santa Fé do Araguaia"
+    },
+    {
+        "id": 117,
+        "nome": "Santa Maria do Tocantins"
+    },
+    {
+        "id": 118,
+        "nome": "Santa Rita do Tocantins"
+    },
+    {
+        "id": 119,
+        "nome": "Santa Rosa do Tocantins"
+    },
+    {
+        "id": 120,
+        "nome": "Santa Tereza do Tocantins"
+    },
+    {
+        "id": 121,
+        "nome": "Santa Terezinha Tocantins"
+    },
+    {
+        "id": 122,
+        "nome": "São Bento do Tocantins"
+    },
+    {
+        "id": 123,
+        "nome": "São Félix do Tocantins"
+    },
+    {
+        "id": 124,
+        "nome": "São Miguel do Tocantins"
+    },
+    {
+        "id": 125,
+        "nome": "São Salvador do Tocantins"
+    },
+    {
+        "id": 126,
+        "nome": "São Sebastião do Tocantins"
+    },
+    {
+        "id": 127,
+        "nome": "São Valério da Natividade"
+    },
+    {
+        "id": 128,
+        "nome": "Silvanópolis"
+    },
+    {
+        "id": 129,
+        "nome": "Sítio Novo do Tocantins"
+    },
+    {
+        "id": 130,
+        "nome": "Sucupira"
+    },
+    {
+        "id": 131,
+        "nome": "Taguatinga"
+    },
+    {
+        "id": 132,
+        "nome": "Taipas do Tocantins"
+    },
+    {
+        "id": 133,
+        "nome": "Talismã"
+    },
+    {
+        "id": 134,
+        "nome": "Tocantínia"
+    },
+    {
+        "id": 135,
+        "nome": "Tocantinópolis"
+    },
+    {
+        "id": 136,
+        "nome": "Tupirama"
+    },
+    {
+        "id": 137,
+        "nome": "Tupiratins"
+    },
+    {
+        "id": 138,
+        "nome": "Wanderlândia"
+    },
+    {
+        "id": 139,
+        "nome": "Xambioá"
+    }
+]

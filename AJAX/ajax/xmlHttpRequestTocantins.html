@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+    <title>XMLHttpRequest Tocantins</title>
+    <link rel='stylesheet' href='css/estilo.css'>
+</head>
+
+<body class="conteudo exercicio">
+    <h1>Cidades do Tocantins</h1>
+
+    <script>
+        // 
+        function ajax(config) {
+            const xhr = new XMLHttpRequest()//objeto padronizado suportado pelos principais browsers.
+
+            xhr.open(config.metodo, config.url, true)
+
+            // função pára verificação de codigos de erros
+            xhr.onload = e => {
+                if (xhr.status === 200) {
+                    config.sucesso(xhr.response)
+                } else if (xhr.status >= 400) {
+                    config.erro({ codigo: xhr.status, texto: xhr.statusText })
+                }
+            }
+            xhr.send()
+        }
+
+        function criar_tabela(cidadesTO) {
+            const linhas = cidadesTO.map(
+                cidade => {
+                    const tdId = document.createElement('td')
+                    tdId.innerHTML = cidade.id
+
+                    const tdNome = document.createElement('td')
+                    tdNome.innerHTML = cidade.nome
+
+                    const tr = document.createElement('tr')
+                    tr.appendChild(tdId)
+                    tr.appendChild(tdNome)
+                
+
+                    return tr
+
+                }
+            )
+
+            const tabela = document.createElement('table')
+            linhas.forEach(linha => tabela.appendChild(linha))
+            document.body.appendChild(tabela)
+        }
+
+
+        ajax(
+            {
+                url: 'dados/cidadesTO.json',
+                metodo: 'get',
+                sucesso(resposta) {
+                    const cidadesTO = JSON.parse(resposta)
+                    criar_tabela(cidadesTO)
+                },
+                erro(e) {
+                    const msg = document.createTextNode(`${e.codigo}: ${e.texto}`)
+                    document.body.appendChild(msg)
+                }
+            }
+        )
+
+    </script>
+</body>
