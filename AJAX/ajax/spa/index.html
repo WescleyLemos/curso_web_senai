@@ -25,6 +25,36 @@
     </nav>
     <div class="pagina"></div>
     <script>
-        // ...
+
+        function navegarViaAjax(url, seletor) {
+
+            if (!url || !seletor) {
+                return
+            } else {
+                const destino = document.querySelector(seletor)
+                fetch(url)
+                    .then(resp => resp.text())
+                    .then(html => {
+                        destino.innerHTML = html
+                    })
+            }
+
+
+        }
+
+        const links = document.querySelectorAll('[wm-link]')
+
+        for(let i=0; i< links.length; i++)
+        {
+            const origem = links[i].attributes['wm-link'].value
+            const destino = links[i].attributes['wm-destino'].value
+
+
+            links[i].onclick = e => {
+                e.preventDefault()
+                navegarViaAjax(origem, destino)
+            }
+        }
+
     </script>
 </body>
